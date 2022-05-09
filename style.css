@@ -1,0 +1,66 @@
+
+.principal {
+    background: burlywood;
+    padding: 30px;
+}
+
+#banner {
+    width: 100%;
+
+}
+
+.itens {
+	font-style: italic
+}
+
+
+
+h1 {
+    text-align: center;
+}
+
+
+p {
+    text-align: center;
+
+
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+#missão {
+    font-size: 20px
+}
+
+
+em strong {
+    background-color: white;
+
+}
+
+ul {
+    display: inline-block vertical
+}
+
+.imagemcabelereiro {
+    width: 30%;
+    padding:20px;
+}
+
+.barba {
+    background: #FFFFFF;
+    width:30%;
+    padding: 20px;
+}
+
+.escova {
+    width: 30%;
+    
+}
+
